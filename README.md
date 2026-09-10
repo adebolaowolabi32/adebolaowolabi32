@@ -25,7 +25,7 @@ My work spans operational platforms at **Duplo**, AI workflows at **Bitso**, dis
 
 ### Personal projects
 
-- [SourceDesk — Evidence-Based Support](https://github.com/adebolaowolabi32/sourcedesk) — a React and TypeScript support workspace with cited retrieval, review handoffs, private browser sessions, and a reproducible 40-case evaluation suite. Works without a model key; includes an optional structured model adapter.
+- [SourceDesk — Evidence-Based Support](https://github.com/adebolaowolabi32/sourcedesk) · **[Try the interactive demo](https://adebolaowolabi32.github.io/sourcedesk/)** — a React and TypeScript support workspace with cited GPT answers, pgvector retrieval, and review handoffs. The browser-only portfolio preview uses recorded examples; the repository includes the runnable backend, automated tests, and measured live API smoke results.
 
 - [LedgerDesk — Payment Operations Console](https://github.com/adebolaowolabi32/payment-operations-console) — an original React and TypeScript demo with independent approvals, audit trails, idempotent requests, and resilient payment processing. Includes automated tests and architecture documentation.
 

@@ -25,6 +25,8 @@ My work spans operational platforms at **Duplo**, AI workflows at **Bitso**, dis
 
 ### Personal projects
 
+- [LedgerDesk — Payment Operations Console](https://github.com/adebolaowolabi32/payment-operations-console) — an original React and TypeScript demo with independent approvals, audit trails, idempotent requests, and resilient payment processing. Includes automated tests and architecture documentation.
+
 - [Blackjack AI](https://github.com/adebolaowolabi32/Blackjack-AI) — blackjack simulation exploring card counting, strategy analysis, and Q-learning.
 - [Object Detection](https://github.com/adebolaowolabi32/Object-Detection-Model) — a Python image-detection project using YOLOv3 and OpenCV.
 

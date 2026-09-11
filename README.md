@@ -27,7 +27,7 @@ My work spans operational platforms at **Duplo**, AI workflows at **Bitso**, dis
 
 - [SourceDesk — Evidence-Based Support](https://github.com/adebolaowolabi32/sourcedesk) · **[Try the interactive demo](https://adebolaowolabi32.github.io/sourcedesk/)** — a React and TypeScript support workspace with cited GPT answers, pgvector retrieval, and review handoffs. The browser-only portfolio preview uses recorded examples; the repository includes the runnable backend, automated tests, and measured live API smoke results.
 
-- [LedgerDesk — Payment Operations Console](https://github.com/adebolaowolabi32/payment-operations-console) — an original React and TypeScript demo with independent approvals, audit trails, idempotent requests, and resilient payment processing. Includes automated tests and architecture documentation.
+- [LedgerDesk — Payment Operations Console](https://github.com/adebolaowolabi32/payment-operations-console) · **[Try the interactive demo](https://adebolaowolabi32.github.io/payment-operations-console/)** — an original React and TypeScript demo with independent approvals, audit trails, idempotent requests, and resilient payment processing. The browser-only preview lets you create, approve, reject and retry fictional payments. Includes automated tests and architecture documentation.
 
 - [Blackjack AI](https://github.com/adebolaowolabi32/Blackjack-AI) — blackjack simulation exploring card counting, strategy analysis, and Q-learning.
 - [Object Detection](https://github.com/adebolaowolabi32/Object-Detection-Model) — a Python image-detection project using YOLOv3 and OpenCV.

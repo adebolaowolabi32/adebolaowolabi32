@@ -25,6 +25,8 @@ My work spans operational platforms at **Duplo**, AI workflows at **Bitso**, dis
 
 ### Personal projects
 
+- [RelayDesk — Distributed Delivery Playground](https://github.com/adebolaowolabi32/relaydesk) · **[Try the interactive demo](https://adebolaowolabi32.github.io/relaydesk/)** — ship a release to 1,000 simulated clients, take a region offline, and compare recovery strategies. Includes a separately runnable Node.js delivery engine with real HTTP transfers, SHA-256 verification, durable jobs, retries and restart recovery.
+
 - [SourceDesk — Evidence-Based Support](https://github.com/adebolaowolabi32/sourcedesk) · **[Try the interactive demo](https://adebolaowolabi32.github.io/sourcedesk/)** — a React and TypeScript support workspace with cited GPT answers, pgvector retrieval, and review handoffs. The browser-only portfolio preview uses recorded examples; the repository includes the runnable backend, automated tests, and measured live API smoke results.
 
 - [LedgerDesk — Payment Operations Console](https://github.com/adebolaowolabi32/payment-operations-console) · **[Try the interactive demo](https://adebolaowolabi32.github.io/payment-operations-console/)** — an original React and TypeScript demo with independent approvals, audit trails, idempotent requests, and resilient payment processing. The browser-only preview lets you create, approve, reject and retry fictional payments. Includes automated tests and architecture documentation.

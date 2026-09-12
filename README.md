@@ -1,6 +1,6 @@
 # Cynthia Owolabi
 
-**Senior Full Stack Engineer · Platform & AI Engineering**
+**Senior Software Engineer · Payments & Distributed Systems**
 
 I build production web applications, APIs, and distributed systems, with experience across payments, internal operations, cloud infrastructure, and applied AI.
 
@@ -23,16 +23,25 @@ My work spans operational platforms at **Duplo**, AI workflows at **Bitso**, dis
 - **Cloud & delivery:** AWS, Azure, GCP, Docker, Kubernetes, Terraform, CI/CD.
 - **AI:** LLM APIs, LangGraph, LangChain, RAG, Pinecone.
 
-### Personal projects
+### Selected independent projects
 
-- [RelayDesk — Distributed Delivery Playground](https://github.com/adebolaowolabi32/relaydesk) · **[Try the interactive demo](https://adebolaowolabi32.github.io/relaydesk/)** — ship a release to 1,000 simulated clients, take a region offline, and compare recovery strategies. Includes a separately runnable Node.js delivery engine with real HTTP transfers, SHA-256 verification, durable jobs, retries and restart recovery.
+**[Portfolio and case studies](https://adebolaowolabi32.github.io/)** · [Download CV](https://adebolaowolabi32.github.io/Cynthia_Owolabi_Resume.pdf)
 
-- [SourceDesk — Evidence-Based Support](https://github.com/adebolaowolabi32/sourcedesk) · **[Try the interactive demo](https://adebolaowolabi32.github.io/sourcedesk/)** — a React and TypeScript support workspace with cited GPT answers, pgvector retrieval, and review handoffs. The browser-only portfolio preview uses recorded examples; the repository includes the runnable backend, automated tests, and measured live API smoke results.
+- **[LedgerDesk](https://github.com/adebolaowolabi32/payment-operations-console)** — Flagship: independent payment approvals, provider reconciliation, PostgreSQL worker ownership and durable attempt history. [Demo](https://adebolaowolabi32.github.io/payment-operations-console/) · [Case study](https://adebolaowolabi32.github.io/case-studies/ledgerdesk.html)
 
-- [LedgerDesk — Payment Operations Console](https://github.com/adebolaowolabi32/payment-operations-console) · **[Try the interactive demo](https://adebolaowolabi32.github.io/payment-operations-console/)** — an original React and TypeScript demo with independent approvals, audit trails, idempotent requests, and resilient payment processing. The browser-only preview lets you create, approve, reject and retry fictional payments. Includes automated tests and architecture documentation.
+- **[RelayDesk](https://github.com/adebolaowolabi32/relaydesk)** — Interactive regional-outage simulation plus a separate real HTTP delivery lab with checksum verification and crash recovery. [Demo](https://adebolaowolabi32.github.io/relaydesk/) · [Case study](https://adebolaowolabi32.github.io/case-studies/relaydesk.html)
 
-- [Blackjack AI](https://github.com/adebolaowolabi32/Blackjack-AI) — blackjack simulation exploring card counting, strategy analysis, and Q-learning.
-- [Object Detection](https://github.com/adebolaowolabi32/Object-Detection-Model) — a Python image-detection project using YOLOv3 and OpenCV.
+- **[SourceDesk](https://github.com/adebolaowolabi32/sourcedesk)** — Evidence-based support with pgvector retrieval, source snapshots and handoffs. Includes visible regression and live smoke evidence, with evaluation limits documented. [Demo](https://adebolaowolabi32.github.io/sourcedesk/) · [Case study](https://adebolaowolabi32.github.io/case-studies/sourcedesk.html)
+
+- **[TrafficDesk](https://github.com/adebolaowolabi32/trafficdesk)** — Playable transit operations: moving buses, passenger journeys, bridge closures and repeatable dispatch experiments. [Demo](https://adebolaowolabi32.github.io/trafficdesk/) · [Case study](https://adebolaowolabi32.github.io/case-studies/trafficdesk.html)
+
+The public previews use synthetic data and run in the browser. Backend implementations and local verification are linked from each case study.
+
+<details><summary>Earlier explorations</summary>
+
+[Blackjack AI](https://github.com/adebolaowolabi32/Blackjack-AI) · [Object Detection](https://github.com/adebolaowolabi32/Object-Detection-Model)
+
+</details>
 
 ### Background
 

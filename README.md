@@ -1,6 +1,6 @@
 # Cynthia Owolabi
 
-**Senior Software Engineer · Payments & Distributed Systems**
+**Senior Full Stack Engineer | Backend, Frontend, Platforms & AI**
 
 I build production web applications, APIs, and distributed systems, with experience across payments, internal operations, cloud infrastructure, and applied AI.
 
@@ -10,7 +10,7 @@ My work spans operational platforms at **Duplo**, AI workflows at **Bitso**, dis
 
 | Area | Experience |
 | --- | --- |
-| Payments & operations | Develop internal operations tooling at Duplo, including role-based access control, maker-checker approvals, and integrations that handle partial service availability. |
+| Payments & operations | Architect and develop internal administration systems at Duplo using Next.js, TypeScript, NestJS and PostgreSQL. Implement Xero accounting integrations, Wema Bank payouts, multi-country compliance, role-based access and maker-checker approvals. |
 | Applied AI | Built an LLM customer-support assistant and transaction risk-analysis workflows at Bitso using LangGraph, semantic embeddings, vector databases, and retrieval-augmented generation. |
 | Distributed systems | Built distributed applications and automated background workflows at Microsoft using Azure services. Reduced API scan completion time from **15 hours to 5 hours** through automated processing. |
 | Platform engineering | Maintained and upgraded artifact-distribution infrastructure at Indeed, migrated services to AWS, and upgraded services to support Kubernetes. |
@@ -25,7 +25,7 @@ My work spans operational platforms at **Duplo**, AI workflows at **Bitso**, dis
 
 ### Selected independent projects
 
-**[Portfolio and case studies](https://adebolaowolabi32.github.io/)** · [Download CV](https://adebolaowolabi32.github.io/Cynthia_Owolabi_Resume.pdf)
+**[Portfolio and case studies](https://adebolaowolabi32.github.io/)** · [Choose a CV](https://adebolaowolabi32.github.io/resume.html)
 
 - **[LedgerDesk](https://github.com/adebolaowolabi32/payment-operations-console)** — Flagship: independent payment approvals, provider reconciliation, PostgreSQL worker ownership and durable attempt history. [Demo](https://adebolaowolabi32.github.io/payment-operations-console/) · [Case study](https://adebolaowolabi32.github.io/case-studies/ledgerdesk.html)
 
@@ -42,6 +42,25 @@ The public previews use synthetic data and run in the browser. Backend implement
 [Blackjack AI](https://github.com/adebolaowolabi32/Blackjack-AI) · [Object Detection](https://github.com/adebolaowolabi32/Object-Detection-Model)
 
 </details>
+
+### CVs
+
+- [Senior Full Stack Engineer](https://adebolaowolabi32.github.io/Cynthia_Owolabi_CV_Senior_Full_Stack.pdf)
+- [Senior Backend Engineer](https://adebolaowolabi32.github.io/Cynthia_Owolabi_CV_Senior_Backend.pdf)
+- [Senior Frontend Engineer](https://adebolaowolabi32.github.io/Cynthia_Owolabi_CV_Senior_Frontend.pdf)
+- [Senior Backend Engineer | Platforms & AI](https://adebolaowolabi32.github.io/Cynthia_Owolabi_CV_Senior_Backend_Platforms_AI.pdf)
+
+### Employment history
+
+| Employer | Role | Dates | Employment |
+| --- | --- | --- | --- |
+| Duplo | Senior Full Stack Engineer | Jul 2025 – Present | Full-time |
+| Bitso | Senior Software Engineer | Apr 2023 – Jul 2025 | Contract |
+| Microsoft | Senior Software Engineer | Dec 2021 – Feb 2023 | Full-time |
+| Indeed | Senior Software Engineer | Jun 2020 – Nov 2022 | Contract |
+| Interswitch Group | Software Engineer | May 2018 – Nov 2020 | Full-time |
+| Zone | Software Engineer | Jan 2017 – Mar 2018 | Full-time |
+| ElectroHyve Research Institute of Technology | Embedded Systems Engineer | Jun 2015 – Nov 2015 | Internship |
 
 ### Background
 

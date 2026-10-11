@@ -41,7 +41,7 @@ composer require cynthiaowolabi/csv-kit:^1.0
 
 - **[RelayDesk](https://github.com/adebolaowolabi32/relaydesk)** lets you take a region offline during a release. There’s also a local HTTP delivery engine where you can stop a worker and watch another recover its job. [Demo](https://adebolaowolabi32.github.io/relaydesk/) · [Case study](https://adebolaowolabi32.github.io/case-studies/relaydesk.html)
 
-- **[SourceDesk](https://github.com/adebolaowolabi32/sourcedesk)** answers questions from payment guides and shows the passages it used. Questions about a specific account go to review because the app has no access to account data. [Demo](https://adebolaowolabi32.github.io/sourcedesk/) · [Case study](https://adebolaowolabi32.github.io/case-studies/sourcedesk.html)
+- **[SourceDesk](https://github.com/adebolaowolabi32/sourcedesk)** answers questions from payment guides and shows the passages it used. Account-specific questions go to review; answers come from the payment guides. [Demo](https://adebolaowolabi32.github.io/sourcedesk/) · [Case study](https://adebolaowolabi32.github.io/case-studies/sourcedesk.html)
 
 - **[TrafficDesk](https://github.com/adebolaowolabi32/trafficdesk)** puts you in charge of a fictional bus network. Close a bridge and see where queues build up, or take a ride as a passenger. [Demo](https://adebolaowolabi32.github.io/trafficdesk/) · [Case study](https://adebolaowolabi32.github.io/case-studies/trafficdesk.html)
 

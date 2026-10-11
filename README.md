@@ -25,7 +25,7 @@ My infrastructure work includes artifact distribution and AWS migration at **Ind
 
 [![Packagist version](https://img.shields.io/packagist/v/cynthiaowolabi/csv-kit)](https://packagist.org/packages/cynthiaowolabi/csv-kit) [![PHP tests](https://github.com/adebolaowolabi32/csv-kit/actions/workflows/tests.yml/badge.svg)](https://github.com/adebolaowolabi32/csv-kit/actions/workflows/tests.yml)
 
-A standalone PHP library for streaming email CSV validation with stable row cursors. I extracted it from Fieldnotes Academy's learner imports. It has no Laravel dependency and is tested on PHP 8.3, 8.4 and 8.5; the calling application manages transactions and saved checkpoints.
+I extracted CSV Kit from Fieldnotes Academy's learner imports so the reader could be used outside Laravel. It validates email CSV files one row at a time and returns row numbers that an importer can save for retries. Tests run on PHP 8.3, 8.4 and 8.5.
 
 ```sh
 composer require cynthiaowolabi/csv-kit:^1.0
